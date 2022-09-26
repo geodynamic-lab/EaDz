@@ -1,0 +1,16 @@
+geopandas
+streamlit
+streamlit-bokeh-events
+streamlit-folium
+streamlit-keplergl
+leafmap
+pandas
+numpy
+scipy
+base64
+matplotlib
+seaborn
+detritalpy
+pygplates
+cartopy
+shapely
